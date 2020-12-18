@@ -1,0 +1,12 @@
+core_cm7.h:2464:22:SCB_InvalidateDCache_by_Addr	32	static,ignoring_inline_asm
+ethernetif.c:124:6:HAL_ETH_MspInit	64	static
+ethernetif.c:189:6:HAL_ETH_MspDeInit	16	static
+ethernetif.c:243:13:low_level_init	32	static
+ethernetif.c:344:14:low_level_output	80	static
+ethernetif.c:390:22:low_level_input	88	static
+ethernetif.c:439:6:ethernetif_input	24	static
+ethernetif.c:495:7:ethernetif_init	16	static
+ethernetif.c:539:6:pbuf_free_custom	24	static
+ethernetif.c:554:7:sys_jiffies	8	static
+ethernetif.c:565:7:sys_now	8	static
+ethernetif.c:581:6:ethernet_link_check_state	16	static
